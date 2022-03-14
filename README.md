@@ -14,8 +14,10 @@ Visually show the differences between the magnitudes of earthqukes all over the 
 - JavaScript
 - D3.js Library
 - Leaflet.js Library
+- Mapbox API
 
 ### Sites/Data
+- https://www.mapbox.com/
 
 ## Results
 
