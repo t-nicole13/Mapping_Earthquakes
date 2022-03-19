@@ -1,0 +1,5 @@
+# ignore the config.js file
+config.js
+
+# ignore .vscode
+.vscode
