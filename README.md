@@ -34,16 +34,15 @@ My final map visualization will show the earthquake data in relation to the tect
 
 ## Results
 
-### Satellite Map
+### Satellite Map Displaying Major Earthquake Data Only
 
-Earthquake_Challenge/Images/satellite_map.png
+![satellite_map](https://user-images.githubusercontent.com/33010018/159145561-c0604cf3-9e7b-4c53-b8da-2ecfc3671800.png)
 
-### Dark Map Displaying Major Earthquake Data Only
+### Dark Map 
 
-Earthquake_Challenge/Images/dark_map.png
+![dark_map](https://user-images.githubusercontent.com/33010018/159145536-1e9abb78-a934-4224-8512-c58eb1806f63.png)
 
 ### Streets Map with Popup
 
-Earthquake_Challenge/Images/popup.png
-
+![popup](https://user-images.githubusercontent.com/33010018/159145549-c12c0a55-08ee-40dc-b54c-d8a4a3c92345.png)
 
